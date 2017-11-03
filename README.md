@@ -28,6 +28,6 @@ This repository contains code for
 2) Temperature Sensor
 3) OpenCV based Face detection
 
-In case of any queires or feedback, [contact me](mailto:deepdoshi@live.in)
+In case of any queries or feedback, [contact me](mailto:deepdoshi@live.in)
 
 ###### \*STATUS: Under development
