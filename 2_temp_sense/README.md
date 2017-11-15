@@ -4,8 +4,9 @@ It is a oneWire sensor and so we can use Maxim's [OneWire Libary](https://github
 
 For simplifying temperature conversion calculations, I am using Milesburton's [DallasTemperature](https://www.milesburton.com/Dallas_Temperature_Control_Library) library, can be found on [here](https://github.com/milesburton/Arduino-Temperature-Control-Library) on there Github page.
 
-Downlaod the zip file for both libraries, and then  go to Arduino IDe to add libaries. Once libraries are added, they can be used as:
+Downlaod the zip file for both libraries, and then  go to Arduino IDE to add libaries. Once libraries are added, they can be used as:
 ```
 #include<OneWire.h>
 #include<DallasTemperature.h>
 ```
+This are common libraries for all onew wire devices. This folder contains code using for both single temperature sensor and multiple temperature sensors.
